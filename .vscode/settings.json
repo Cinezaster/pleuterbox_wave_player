@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/appsaloontoonnelissen/.platformio/penv/bin:/Users/appsaloontoonnelissen/.platformio/penv:/usr/local/sbin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/local/mysql/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/CrossPack-AVR/bin:/Users/appsaloontoonnelissen/Library/Android/sdk/tools:/Users/appsaloontoonnelissen/Library/Android/sdk/platform-toolsPATH=/usr/local/bin:/usr/local/mysql/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/CrossPack-AVR/bin:/usr/local/bin:/Users/appsaloontoonnelissen/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
